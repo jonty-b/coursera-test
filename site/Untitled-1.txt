@@ -1,7 +1,8 @@
-html
+<!DOCTYPE html>
 <html>
 <head>
     <title>Hello Coursera</title>
 </head>
 <body>
+</html>
 
